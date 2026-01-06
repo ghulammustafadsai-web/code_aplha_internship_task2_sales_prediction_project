@@ -1,0 +1,1 @@
+# code_aplha_internship_task2_sales_prediction_project
